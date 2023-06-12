@@ -62,7 +62,6 @@ public class Test {
             System.out.println("年份错误");
         }
     }
-
     public static boolean NumberExit(int[] array, int number) {
         for (int j : array) {
             if (number == j) {
